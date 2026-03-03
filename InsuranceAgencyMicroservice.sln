@@ -81,6 +81,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "eureka-server", "eureka-ser
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50105"
+		SlnRelativePath = "eureka-server\"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "scripts", "scripts\", "{19CD0B31-CDBA-7499-6B78-B3699FA91985}"
@@ -101,6 +102,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "scripts", "scripts\", "{19C
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50107"
+		SlnRelativePath = "scripts\"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web", "Web\", "{A9807B56-ABAE-FC54-E455-F6F1CAEFB532}"
@@ -121,6 +123,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web", "Web\", "{A9807B56-AB
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50108"
+		SlnRelativePath = "Web\"
 	EndProjectSection
 EndProject
 Global
